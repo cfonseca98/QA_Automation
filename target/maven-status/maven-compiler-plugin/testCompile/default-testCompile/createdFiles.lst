@@ -1,0 +1,3 @@
+com\shoptest\stepdefinitions\StepdefinitionRegister.class
+com\shoptest\main\Main.class
+com\shoptest\runners\registerShopStore.class

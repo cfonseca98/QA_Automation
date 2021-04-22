@@ -1,0 +1,6 @@
+com\shoptest\exceptions\ExceptionWeb.class
+com\shoptest\util\Driver.class
+com\shoptest\interactions\WaitElement.class
+com\shoptest\interactions\WaitToLoad.class
+com\shoptest\tasks\ShopperTest.class
+com\shoptest\exceptions\AssertionsReservation.class
